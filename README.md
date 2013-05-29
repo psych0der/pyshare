@@ -1,7 +1,7 @@
 Pyshare
 =========
 
-inspired from : https://github.com/Kami/python-twisted-binary-file-transfer-demo
+Inspired from : https://github.com/Kami/python-twisted-binary-file-transfer-demo
 
 Pyshare is python based local file transfer/syncing app with autoconnect features.
 It addresses the most irritating problem of entering servers/peer ip address to initate connection.
@@ -27,7 +27,7 @@ Pyshare provides network file search .
 > this technique makes file to be searched on whole network and user is oblivious to the process
 > if files are found on any host on network , pyshare displays the name along with nick ,of host its stored in .
 
-## Functionality offrerd
+## Functionality offered
 * nick name assignment to hosts
 * finger ( information retrieval of hosts)
 * network file search
@@ -49,7 +49,7 @@ Pyshare uses sandboxing to restrict file transfers to a particular folder on cli
 * '--path' : path of folder to be used with pyshare
 * '--port ' : server port to run on
 
-> for Clints
-* '--path' : path pf folder to be used with pyshare
+> for Clients
+* '--path' : path of folder to be used with pyshare
 
 Further pyshare client instances include help option that prints list of available commands 
