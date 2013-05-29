@@ -7,6 +7,7 @@ Pyshare is python based local file transfer/syncing app with autoconnect feature
 It addresses the most irritating problem of entering servers/peer ip address to initate connection.
 
 *Requires one machine to be reserved as server*
+
 *may require admin password on certain platforms ( for ping utility )*
 
 > It automatically searches hosts on local network running instance of pyshare and connects to them . ('may require admin password')
