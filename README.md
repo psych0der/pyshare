@@ -51,5 +51,13 @@ Pyshare uses sandboxing to restrict file transfers to a particular folder on cli
 
 > for Clients
 * '--path' : path of folder to be used with pyshare
+    
+to start server ,enter :
+	
+	python server.py --path<folder_path> --port<port on which to run>  (may require admi password)
+
+to start client , enter : 
+	
+	python client.py --path<folder_path> 
 
 Further pyshare client instances include help option that prints list of available commands 
